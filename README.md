@@ -1,2 +1,2 @@
-# clone-tabnews
+# learning-dev
 Projeto de treino.
