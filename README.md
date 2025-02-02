@@ -1,2 +1,2 @@
-# learning-dev
+# learning-developer
 Projeto de treino.
